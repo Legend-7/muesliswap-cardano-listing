@@ -1,0 +1,9 @@
+{
+    "policyId": "cc23ae82bd518021787ab4929062718fdce75726c9e78b360a953925",
+    "name": "Cardoggo",
+    "symbol": "DOGGO",    
+    "website": "https://cardoggotoken.com/",
+    "description": "The OG Cardano Meme Token that was abandoned and left astray. $DOGGO is now out the dog pound and woofin' it's way through the astral planes!",
+    "totalSupply": 1000000000000000,
+    "amounts": [1000000, 2500000, 10000000, 25000000, 50000000, 100000000, 250000000, 500000000, 1000000000]
+}
